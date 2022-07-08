@@ -1,0 +1,4 @@
+Hello World
+This is programming
+You are in file handlingFile handling has 4 modes
+Read, write, append and create
